@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import logo from '../assets/static/logo.png'
+import logo from '../assets/static/logou.png'
 import { useShopContext } from '../context/shopContext';
 
 export const NavBar = () => {
