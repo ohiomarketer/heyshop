@@ -118,8 +118,8 @@ a {
   height: 5.5rem;
 }
 .navbar .logo__container {
-  height: 60px;
-  width: 60px;
+  height: 90px;
+  width: 90px;
 }
 .navbar .logo__container .logo {
   -o-object-fit: contain;
